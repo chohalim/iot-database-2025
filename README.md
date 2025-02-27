@@ -91,7 +91,8 @@ IoT 개발자 데이터베이스 저장소
         +--------------------+
         4 rows in set (0.01 sec)
         ```
-        
+        ![db001](https://github.com/user-attachments/assets/1c87ee6e-b365-4b75-932b-41e4a1b94049)
+
 - Workbench 설치
     - https://dev.mysql.com/downloads/workbench/ MySQL Workbench 8.0.41 다운로드 설치
     - MySQL Installer에서 Workbench, Sample 만 설치
