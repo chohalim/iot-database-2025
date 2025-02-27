@@ -91,8 +91,7 @@ IoT 개발자 데이터베이스 저장소
         +--------------------+
         4 rows in set (0.01 sec)
         ```
-       ![db001](https://github.com/user-attachments/assets/1f2213e0-0d50-4d5c-9dd0-fff7c36a9fed)
-
+        
 - Workbench 설치
     - https://dev.mysql.com/downloads/workbench/ MySQL Workbench 8.0.41 다운로드 설치
     - MySQL Installer에서 Workbench, Sample 만 설치
@@ -101,18 +100,7 @@ IoT 개발자 데이터베이스 저장소
         1. MySQL Connections + 클릭
 
 - 관계 데이터 모델
-    - 3단계 DB 구조 : 외부 스키마(실세계와 매핑) -> 개념 스키마(DB논리적 설계) -> 내부 스키마(물리적 설계) -> DB
-
-    - 모델에 쓰이는 용어
-
-      - 릴레이션 - 테이블과 매핑
-      - 속성 - 테이블 column
-      - 튜플 - 테이블 row
-      - 관계 - 릴레이션 간의 부모, 자식 연관
-  - 무결성 제약조건
-  - 
-    -키 - 기본키, 외래키, 수퍼키, 후보키, 대리키, 대체키
-    -개체 무결성 제약조건, 참조 무결성 제약조건, 도메인 무결성 제약조건
+    - 생략
 
 - SQL 기초
     - SQL 개요
